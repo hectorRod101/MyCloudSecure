@@ -5,5 +5,7 @@ so you can configure your computer to communicate with the firebase tools.
 
 Project Developers:
 Hector Rodriguez
+
 Kayla Nguyen
+
 Joesh Bautista
