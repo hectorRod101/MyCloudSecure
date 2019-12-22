@@ -3,14 +3,11 @@ CPSC 454 - Class Project: MyCloud Secure
 This project was developed by:
 
 Hector Rodriguez
-
 Kayla Nguyen
-
 Joesh Bautista
 
 
 Technologies used:
-
 Firebase: Authentication Email/Password, Phone
 Database: Realtime Database
 
